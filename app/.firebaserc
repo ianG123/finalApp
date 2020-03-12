@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "finalapp-c0ad4": {
+      "hosting": {
+        "app": [
+          "finalapp-c0ad4"
+        ]
+      }
+    }
+  }
+}
